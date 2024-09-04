@@ -25,5 +25,5 @@ This repository contains my submission for the AI course project from Missouri U
    chmod +x run.sh
 
    # Run the script
-  ./run.sh
+   ./run.sh
    ```
