@@ -17,7 +17,7 @@ This repository contains my submission for the AI course project from Missouri U
    ```bash
    git clone https://github.com/Prithviraj03/Chess_AI.git
    cd Chess_AI
-   bash```
+   ```
 
 2. Run the Program:
    ```bash
@@ -26,5 +26,4 @@ This repository contains my submission for the AI course project from Missouri U
 
    # Run the script
   ./run.sh
-
-   bash```
+   ```
